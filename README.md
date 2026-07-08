@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### 3. Deploy Local Datasets
 Place your unzipped dataset file named exactly `netflix1.csv` directly into the placeholder data directory:
 ```bash
-python-codebase-datavisualizationnetflix-data-analysis/data/netflix1.csv
+python-codebase-datavisualization-netflix-data-analysis/data/netflix1.csv
 ```
 
 ### 4. Execute the Application Pipeline
